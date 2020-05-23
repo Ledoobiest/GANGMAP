@@ -27,34 +27,36 @@
 	"strokecolor":"#3720f7",
 	"fillcolor":"#3720f7",
     "latlngarray": [
-                {"lat": 64.157, "lng": -127.017},
-		{"lat": 63.843, "lng": -127.171},
-		{"lat": 63.630, "lng": -127.346},
-		{"lat": 63.311, "lng": -127.786},
-		{"lat": 63.098, "lng": -127.039},
-		{"lat": 62.933, "lng": -126.753},
-		{"lat": 62.823, "lng": -126.325},
-		{"lat": 63.448, "lng": -125.116}
-	]
+{"lat": 64.202, "lng": -127.107},
+{"lat": 64.212, "lng": -126.921},
+{"lat": 63.495, "lng": -125.009},
+{"lat": 62.836, "lng": -126.261},
+{"lat": 63.040, "lng": -126.822},
+{"lat": 63.090, "lng": -127.030},
+{"lat": 63.313, "lng": -127.887}
+]
   },
   {
     "id":3,
-    "type":"Territory Areas",
-    "title":"Grove Traphouse",
-    "notes":"Once owned by the LB, now under Ballas control",
+    "type":"Territorios",
+    "title":"Sun Yee On - UPG",
+    "notes":"",
+	"wiki_link":"https://v1.ls-rp.es/thread-2569.html",
     "order":2,
-	"strokecolor":"#551a8b",
-	"fillcolor":"#551a8b",
+	"strokecolor":"#610d19",
+	"fillcolor":"#610d19",
     "latlngarray": [
-		{"lat": 62.711, "lng": -122.919},
-		{"lat": 62.587, "lng": -123.113},
-		{"lat": 62.272, "lng": -122.377},
-		{"lat": 62.418, "lng": -122.139}
-	]
+{"lat": 66.611, "lng": -131.779},
+{"lat": 66.611, "lng": -130.878},
+{"lat": 66.224, "lng": -130.867},
+{"lat": 66.211, "lng": -131.823},
+{"lat": 66.268, "lng": -131.856},
+{"lat": 66.379, "lng": -131.801}
+]
   },
   {
     "id":4,
-    "type":"Territory Areas",
+    "type":"Territorios",
     "title":"Prune Street",
     "notes":"Claimed by Eugune Zuckerberg, inventor of the frisbee, but not an actual gang area. Respect the name.",
 	"wiki_link":"https://nopixel.fandom.com/wiki/Prune_Gang",
