@@ -57,40 +57,40 @@
   {
     "id":4,
     "type":"Territorios",
-    "title":"Prune Street",
-    "notes":"Claimed by Eugune Zuckerberg, inventor of the frisbee, but not an actual gang area. Respect the name.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Prune_Gang",
+    "title":"83 Hoover Chamberlain Gang",
+    "notes":"",
+	"wiki_link":"https://v1.ls-rp.es/thread-2516.html",
     "order":2,
-	"strokecolor":"#ffd1dc",
-	"fillcolor":"#ffd1dc",
+	"strokecolor":"#e89e09",
+	"fillcolor":"#e89e09",
     "latlngarray": [
-		{"lat": 62.587, "lng": -123.113},
-		{"lat": 62.260, "lng": -123.698},
-		{"lat": 62.032, "lng": -122.791},
-		{"lat": 62.272, "lng": -122.377}
-	]
+{"lat": 64.226, "lng": -126.531},
+{"lat": 64.483, "lng": -125.597},
+{"lat": 64.483, "lng": -123.543},
+{"lat": 64.407, "lng": -123.246},
+{"lat": 63.593, "lng": -124.839}
+]
   },
   {
     "id":5,
-    "type":"Territory Areas",
-    "title":"Aztecas",
-    "notes":"It's a blue world. Or, more like a blue street. Also north side cuh. Controls the Traphouse in the area too",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Aztecas",
+    "type":"Territorios",
+    "title":"Rollin 20s Neighborhood Bloods",
+    "notes":"",
+	"wiki_link":"https://v1.ls-rp.es/thread-2500.html",
     "order":2,
-	"strokecolor":"#0000FF",
-	"fillcolor":"#0000FF",
+	"strokecolor":"#fb1414",
+	"fillcolor":"#fb1414",
     "latlngarray": [
-{"lat": 63.230, "lng": -123.861},
-{"lat": 63.501, "lng": -122.762},
-{"lat": 62.911, "lng": -121.158},
-{"lat": 62.514, "lng": -121.927}
-],
-	"video":{
-      "yt_id":"68ugkg9RePc",
-      "yt_user":"blisscorporation",
-      "start":"0:00",
-      "end":"3:39"
-    }
+{"lat": 62.709, "lng": -126.179},
+{"lat": 61.912, "lng": -124.059},
+{"lat": 61.767, "lng": -123.784},
+{"lat": 61.626, "lng": -123.696},
+{"lat": 61.621, "lng": -123.268},
+{"lat": 61.772, "lng": -123.213},
+{"lat": 62.015, "lng": -122.785},
+{"lat": 62.764, "lng": -124.652},
+{"lat": 62.949, "lng": -125.114}
+]
   },
   {
     "id":6,
