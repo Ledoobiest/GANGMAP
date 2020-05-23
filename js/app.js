@@ -144,17 +144,11 @@ $(function() {
 
 	var categories = window.cats = new CategoriesCollection([
 		{
-			name: 'Territory Areas',
+			name: 'Territorios',
 			icon: 'General/wall-breach.png',
-			type: 'General',
+			type: 'Leyenda',
 			enabled: true
 		},
-		{
-			name: 'Neutral Zones',
-			icon: 'General/wall-breach.png',
-			type: 'General',
-			enabled: true
-		}
 	]);
 	var showingLabels;
 	var CategoriesView = Backbone.View.extend({
