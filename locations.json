@@ -137,7 +137,7 @@
     "id":8,
     "type":"Territorios",
     "title":"Vespucci Dirty Whiteboys",
-    "notes":".",
+    "notes":"",
 	"wiki_link":"https://v1.ls-rp.es/thread-2504.html",
     "order":2,
 	"strokecolor":"#3d3d3d",
@@ -221,7 +221,7 @@
     {
     "id":11,
     "type":"Neutral Zones",
-    "title":"North Side Motel",
+    "title":".",
     "notes":"Prime time hostage taking VOL. 3",
     "order":2,
 	"strokecolor":"#FFC0CB",
