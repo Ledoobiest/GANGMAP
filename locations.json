@@ -217,8 +217,31 @@
 {"lat": 68.810, "lng": -138.991}
 ]
   },
-    {
+  {
     "id":11,
+    "type":"Territorios",
+    "title":"Fruit Town Brims [FTB]",
+    "notes":"",
+	"wiki_link":"https://v1.ls-rp.es/thread-2589.html",
+    "order":2,
+	"strokecolor":"#88c116",
+	"fillcolor":"#88c116",
+    "latlngarray": [
+{"lat": 62.390, "lng": -121.670},
+{"lat": 62.031, "lng": -120.780},
+{"lat": 62.236, "lng": -119.759},
+{"lat": 62.344, "lng": -119.253},
+{"lat": 62.522, "lng": -118.957},
+{"lat": 63.386, "lng": -118.803},
+{"lat": 63.543, "lng": -118.803},
+{"lat": 63.582, "lng": -118.847},
+{"lat": 63.723, "lng": -119.209},
+{"lat": 63.297, "lng": -119.989},
+{"lat": 62.874, "lng": -120.780}
+]
+  },
+    {
+    "id":30,
     "type":"Neutral Zones",
     "title":".",
     "notes":"Prime time hostage taking VOL. 3",
