@@ -111,8 +111,8 @@
   },
   {
     "id":7,
-    "type":"Territorios",
-    "title":"Varrio Nuevo Rancho 13",
+    "type":"DISPONIBLE",
+    "title":".",
     "notes":"",
 	"wiki_link":"https://v1.ls-rp.es/thread-2455.html",
     "order":2,
@@ -242,7 +242,7 @@
   },
     {
     "id":30,
-    "type":"Neutral Zones",
+    "type":"FINAL",
     "title":".",
     "notes":"Prime time hostage taking VOL. 3",
     "order":2,
