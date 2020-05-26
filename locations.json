@@ -42,8 +42,8 @@
     "notes":"",
 	"wiki_link":"https://v1.ls-rp.es/thread-2569.html",
     "order":2,
-	"strokecolor":"#610d19",
-	"fillcolor":"#610d19",
+	"strokecolor":"#f7ff00",
+	"fillcolor":"#f7ff00",
     "latlngarray": [
 {"lat": 66.611, "lng": -131.779},
 {"lat": 66.611, "lng": -130.878},
@@ -77,8 +77,8 @@
     "notes":"",
 	"wiki_link":"https://v1.ls-rp.es/thread-2500.html",
     "order":2,
-	"strokecolor":"ff0000",
-	"fillcolor":"ff0000",
+	"strokecolor":"e30000",
+	"fillcolor":"e30000",
     "latlngarray": [
 {"lat": 62.705, "lng": -126.162},
 {"lat": 62.805, "lng": -125.942},
@@ -116,8 +116,8 @@
     "notes":"",
 	"wiki_link":"https://v1.ls-rp.es/thread-2560.html",
     "order":2,
-	"strokecolor":"#20909",
-	"fillcolor":"#20909",
+	"strokecolor":"#873043",
+	"fillcolor":"#873043",
     "latlngarray": [
 {"lat": 66.055, "lng": -118.061},
 {"lat": 66.090, "lng": -116.765},
