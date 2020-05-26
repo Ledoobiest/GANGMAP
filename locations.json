@@ -77,8 +77,8 @@
     "notes":"",
 	"wiki_link":"https://v1.ls-rp.es/thread-2500.html",
     "order":2,
-	"strokecolor":"e30000",
-	"fillcolor":"e30000",
+	"strokecolor":"#d81414",
+	"fillcolor":"#d81414",
     "latlngarray": [
 {"lat": 62.705, "lng": -126.162},
 {"lat": 62.805, "lng": -125.942},
