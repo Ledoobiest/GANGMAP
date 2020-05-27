@@ -229,6 +229,24 @@
 {"lat": 62.874, "lng": -120.780}
 ]
   },
+  {
+    "id":12,
+    "type":"Territorios",
+    "title":"Brothers of Mahyem MC",
+    "notes":"",
+	"wiki_link":"https://v1.ls-rp.es/thread-2601.html",
+    "order":2,
+	"strokecolor":"#4d4b75",
+	"fillcolor":"#4d4b75",
+    "latlngarray": [
+{"lat": 64.775, "lng": -121.262},
+{"lat": 65.008, "lng": -120.855},
+{"lat": 65.055, "lng": -121.097},
+{"lat": 65.069, "lng": -121.789},
+{"lat": 64.850, "lng": -121.800},
+{"lat": 64.836, "lng": -121.504}
+]
+  },
     {
     "id":30,
     "type":"FINAL",
