@@ -112,17 +112,25 @@
   {
     "id":7,
     "type":"Territorios",
-    "title":"Black Heaven MC",
+    "title":"Fudge Lane Malditos",
     "notes":"",
-	"wiki_link":"https://v1.ls-rp.es/thread-2560.html",
+	"wiki_link":"https://v1.ls-rp.es/thread-2623.html",
     "order":2,
-	"strokecolor":"#873043",
-	"fillcolor":"#873043",
-    "latlngarray": [
-{"lat": 66.658, "lng": -117.109},
-{"lat": 66.640, "lng": -118.010},
-{"lat": 66.895, "lng": -118.063},
-{"lat": 66.895, "lng": -117.162}
+	"strokecolor":"#4d4b75",
+	"fillcolor":"#4d4b75",
+    "latlngarray":  [
+{"lat": 63.267, "lng": -112.494},
+{"lat": 63.489, "lng": -111.802},
+{"lat": 63.718, "lng": -111.110},
+{"lat": 63.932, "lng": -110.461},
+{"lat": 63.985, "lng": -110.891},
+{"lat": 63.922, "lng": -111.572},
+{"lat": 63.786, "lng": -112.440},
+{"lat": 63.621, "lng": -112.957},
+{"lat": 63.400, "lng": -113.418},
+{"lat": 63.173, "lng": -113.541},
+{"lat": 63.079, "lng": -113.442},
+{"lat": 63.163, "lng": -112.981}
 ]
   },
   {
@@ -226,8 +234,8 @@
     "notes":"",
 	"wiki_link":"https://v1.ls-rp.es/thread-2601.html",
     "order":2,
-	"strokecolor":"#4d4b75",
-	"fillcolor":"#4d4b75",
+	"strokecolor":"#873043",
+	"fillcolor":"#873043",
     "latlngarray": [
 {"lat": 64.775, "lng": -121.262},
 {"lat": 65.008, "lng": -120.855},
