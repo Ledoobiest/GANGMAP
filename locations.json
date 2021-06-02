@@ -15,6 +15,21 @@
 {"lat": 65.842, "lng": -131.160}
 ]
   },
+	{
+    "id":5,
+    "type":"Territorios",
+    "title":"Sun Yee On - United Penzai Gang (盆景),
+    "notes":"",
+	"wiki_link":"https://im-rp.es/showthread.php?tid=198",
+    "order":2,
+	"strokecolor":"#499043",
+	"fillcolor":"#499043",
+    "latlngarray":  [
+{"lat": 66.570, "lng": -129.482},
+{"lat": 66.570, "lng": -130.229},
+{"lat": 66.302, "lng": -129.713}
+]
+  },
   {
     "id":2,
     "type":"Territorios",
