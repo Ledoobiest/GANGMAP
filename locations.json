@@ -88,16 +88,16 @@
     "type":"Territorios",
     "title":"Sun Yee On - United Penzai Gang",
     "notes":"",
-	"wiki_link":"https://im-rp.es/showthread.php?tid=102",
+	"wiki_link":"https://im-rp.es/showthread.php?tid=198",
     "order":2,
-	"strokecolor":"#ee7a06",
-	"fillcolor":"#ee7a06",
+	"strokecolor":"#499043",
+	"fillcolor":"#499043",
     "latlngarray":  [
-{"lat": 63.033, "lng": -121.600},
-{"lat": 62.642, "lng": -122.336},
-{"lat": 63.073, "lng": -123.478},
-{"lat": 63.271, "lng": -122.918},
-{"lat": 63.395, "lng": -122.171}
+{"lat": 66.606, "lng": -130.871},
+{"lat": 66.615, "lng": -131.794},
+{"lat": 66.338, "lng": -131.860},
+{"lat": 66.215, "lng": -131.860},
+{"lat": 66.219, "lng": -130.893}
 ]
   },
 {
