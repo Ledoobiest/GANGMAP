@@ -49,19 +49,31 @@
 {"lat": 63.395, "lng": -122.171}
 ]
   },
+{
+    "id":4
+    "type":"Territorios",
+    "title":"Sun Yee On - United Penzai Gang",
+    "notes":"",
+	"wiki_link":"https://im-rp.es/showthread.php?tid=102",
+    "order":2,
+	"strokecolor":"#499043",
+	"fillcolor":"#499043",
+    "latlngarray":  [
+{"lat": 66.606, "lng": -130.871},
+{"lat": 66.615, "lng": -131.794},
+{"lat": 66.338, "lng": -131.860},
+{"lat": 66.215, "lng": -131.860},
+{"lat": 66.219, "lng": -130.893}
+]
+  },
     {
     "id":30,
     "type":"FINAL",
     "title":"",
-    "notes":"Prime time hostage taking VOL. 3",
+    "notes":"",
     "order":2,
 	"strokecolor":"#FFC0CB",
 	"fillcolor":"#fff",
-    "latlngarray":   [
-{"lat": 70.580, "lng": -119.984},
-{"lat": 70.378, "lng": -120.170},
-{"lat": 70.300, "lng": -119.335},
-{"lat": 70.477, "lng": -119.149}
-]
+    "latlngarray":
   }
 ]
