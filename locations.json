@@ -74,6 +74,12 @@
     "order":2,
 	"strokecolor":"#FFC0CB",
 	"fillcolor":"#fff",
-    "latlngarray":
+    "latlngarray": [
+{"lat": 66.606, "lng": -130.871},
+{"lat": 66.615, "lng": -131.794},
+{"lat": 66.338, "lng": -131.860},
+{"lat": 66.215, "lng": -131.860},
+{"lat": 66.219, "lng": -130.893}
+]
   }
 ]
