@@ -67,6 +67,23 @@
 ]
   },
 {
+    "id":3,
+    "type":"Territorios",
+    "title":"W/S 94 Hoover Criminal Gang",
+    "notes":"",
+	"wiki_link":"https://im-rp.es/showthread.php?tid=102",
+    "order":2,
+	"strokecolor":"#ee7a06",
+	"fillcolor":"#ee7a06",
+    "latlngarray":  [
+{"lat": 63.033, "lng": -121.600},
+{"lat": 62.642, "lng": -122.336},
+{"lat": 63.073, "lng": -123.478},
+{"lat": 63.271, "lng": -122.918},
+{"lat": 63.395, "lng": -122.171}
+]
+  },
+{
     "id":30,
     "type":"FINAL",
     "title":"",
