@@ -2,34 +2,41 @@
   {
     "id":1,
     "type":"Territorios",
-    "title":"Facción",
+    "title":"Ejemplo 1",
     "notes":"",
 	"wiki_link":"Link del proyecto",
     "order":1,
 	"strokecolor":"#933081",
 	"fillcolor":"#933081",
     "latlngarray": [
-{"lat": 68.985, "lng": -121.033},
-{"lat": 68.811, "lng": -121.198},
-{"lat": 68.945, "lng": -122.154},
-{"lat": 69.103, "lng": -121.978}
+{"lat": 69.050, "lng": -139.584},
+{"lat": 69.308, "lng": -138.705},
+{"lat": 69.436, "lng": -137.859},
+{"lat": 69.409, "lng": -137.189},
+{"lat": 69.320, "lng": -136.464},
+{"lat": 69.011, "lng": -134.926},
+{"lat": 68.534, "lng": -137.255},
+{"lat": 68.389, "lng": -137.991}
 ]
   },
   {
     "id":13,
     "type":"Territorios",
-    "title":"Facción",
+    "title":"Ejemplo 2",
     "notes":"",
 	"wiki_link":"Link del proyecto",
     "order":2,
 	"strokecolor":"#366959",
 	"fillcolor":"#366959",
     "latlngarray":  [
-{"lat": 64.474, "lng": -136.399},
-{"lat": 64.289, "lng": -136.113},
-{"lat": 64.436, "lng": -135.685},
-{"lat": 64.583, "lng": -135.904}
-] 
+{"lat": 61.941, "lng": -123.437},
+{"lat": 62.305, "lng": -124.481},
+{"lat": 62.817, "lng": -125.887},
+{"lat": 63.151, "lng": -124.119},
+{"lat": 62.761, "lng": -123.097},
+{"lat": 62.407, "lng": -122.053},
+{"lat": 61.992, "lng": -122.690}
+]
   },
     {
     "id":30,
