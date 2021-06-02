@@ -50,40 +50,6 @@
 ]
   },
 {
-    "id":4
-    "type":"Territorios",
-    "title":"Sun Yee On - United Penzai Gang",
-    "notes":"",
-	"wiki_link":"https://im-rp.es/showthread.php?tid=102",
-    "order":2,
-	"strokecolor":"#499043",
-	"fillcolor":"#499043",
-    "latlngarray":  [
-{"lat": 66.606, "lng": -130.871},
-{"lat": 66.615, "lng": -131.794},
-{"lat": 66.338, "lng": -131.860},
-{"lat": 66.215, "lng": -131.860},
-{"lat": 66.219, "lng": -130.893}
-]
-  },
-{
-    "id":5
-    "type":"Territorios",
-    "title":"Sun Yee On - United Penzai Gang",
-    "notes":"",
-	"wiki_link":"https://im-rp.es/showthread.php?tid=102",
-    "order":2,
-	"strokecolor":"#499043",
-	"fillcolor":"#499043",
-    "latlngarray":  [
-{"lat": 66.606, "lng": -130.871},
-{"lat": 66.615, "lng": -131.794},
-{"lat": 66.338, "lng": -131.860},
-{"lat": 66.215, "lng": -131.860},
-{"lat": 66.219, "lng": -130.893}
-]
-  },
-{
     "id":6,
     "type":"Territorios",
     "title":"Sun Yee On - United Penzai Gang",
