@@ -2,32 +2,28 @@
   {
     "id":1,
     "type":"Territorios",
-    "title":"Ejemplo 1",
-    "notes":"Aquí va un pequeño resumén del proyecto.",
-	"wiki_link":"https://im-rp.es/showthread.php?tid=161",
+    "title":"Takahashi Clan 高橋氏",
+    "notes":"",
+	"wiki_link":"https://im-rp.es/showthread.php?tid=258",
     "order":1,
 	"strokecolor":"#933081",
 	"fillcolor":"#933081",
     "latlngarray": [
-{"lat": 69.050, "lng": -139.584},
-{"lat": 69.308, "lng": -138.705},
-{"lat": 69.436, "lng": -137.859},
-{"lat": 69.409, "lng": -137.189},
-{"lat": 69.320, "lng": -136.464},
-{"lat": 69.011, "lng": -134.926},
-{"lat": 68.534, "lng": -137.255},
-{"lat": 68.389, "lng": -137.991}
+{"lat": 65.770, "lng": -131.468},
+{"lat": 65.923, "lng": -131.666},
+{"lat": 66.003, "lng": -131.380},
+{"lat": 65.842, "lng": -131.160}
 ]
   },
   {
-    "id":13,
+    "id":2,
     "type":"Territorios",
-    "title":"Ejemplo 2",
-    "notes":"Aquí va un pequeño resumén del proyecto.",
-	"wiki_link":"https://im-rp.es/showthread.php?tid=161",
+    "title":"Rzayev-Petrosyan Organization",
+    "notes":"",
+	"wiki_link":"https://im-rp.es/showthread.php?tid=114",
     "order":2,
-	"strokecolor":"#366959",
-	"fillcolor":"#366959",
+	"strokecolor":"#562B0A",
+	"fillcolor":"#562B0A",
     "latlngarray":  [
 {"lat": 61.941, "lng": -123.437},
 {"lat": 62.305, "lng": -124.481},
@@ -36,6 +32,38 @@
 {"lat": 62.761, "lng": -123.097},
 {"lat": 62.407, "lng": -122.053},
 {"lat": 61.992, "lng": -122.690}
+]
+  },
+{
+    "id":3,
+    "type":"Territorios",
+    "title":"W/S 94 Hoover Criminal Gang",
+    "notes":"",
+	"wiki_link":"https://im-rp.es/showthread.php?tid=102",
+    "order":2,
+	"strokecolor":"#ee7a06",
+	"fillcolor":"#ee7a06",
+    "latlngarray":  [
+{"lat": 63.033, "lng": -121.600},
+{"lat": 62.642, "lng": -122.336},
+{"lat": 63.073, "lng": -123.478},
+{"lat": 63.271, "lng": -122.918},
+{"lat": 63.395, "lng": -122.171}
+]
+  },
+{
+    "id":4,
+    "type":"Territorios",
+    "title":"Sun Yee On - United Penzai Gang (盆景),
+    "notes":"",
+	"wiki_link":"https://im-rp.es/showthread.php?tid=198",
+    "order":2,
+	"strokecolor":"#499043",
+	"fillcolor":"#499043",
+    "latlngarray":  [
+{"lat": 66.570, "lng": -129.482},
+{"lat": 66.570, "lng": -130.229},
+{"lat": 66.302, "lng": -129.713}
 ]
   },
     {
