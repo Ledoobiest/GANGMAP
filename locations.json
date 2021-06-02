@@ -2,7 +2,7 @@
   {
     "id":1,
     "type":"Territorios",
-    "title":"Takahashi Clan 高橋氏",
+    "title":"Takahashi Clan",
     "notes":"",
 	"wiki_link":"https://im-rp.es/showthread.php?tid=258",
     "order":1,
@@ -25,13 +25,11 @@
 	"strokecolor":"#562B0A",
 	"fillcolor":"#562B0A",
     "latlngarray":  [
-{"lat": 61.941, "lng": -123.437},
-{"lat": 62.305, "lng": -124.481},
-{"lat": 62.817, "lng": -125.887},
-{"lat": 63.151, "lng": -124.119},
-{"lat": 62.761, "lng": -123.097},
-{"lat": 62.407, "lng": -122.053},
-{"lat": 61.992, "lng": -122.690}
+{"lat": 67.280, "lng": -119.623},
+{"lat": 67.276, "lng": -120.688},
+{"lat": 67.284, "lng": -121.051},
+{"lat": 66.618, "lng": -121.600},
+{"lat": 66.635, "lng": -119.689}
 ]
   },
 {
