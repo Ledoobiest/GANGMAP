@@ -91,6 +91,22 @@
 ]
   },
 {
+    "id":8,
+    "type":"Territorios",
+    "title":"Kerzhakov Gang",
+    "notes":"",
+	"wiki_link":"https://im-rp.es/showthread.php?tid=290",
+    "order":2,
+	"strokecolor":"#FF3333",
+	"fillcolor":"#FF3333",
+    "latlngarray":  [
+{"lat": 69.053, "lng": -139.629},
+{"lat": 68.848, "lng": -139.156},
+{"lat": 69.077, "lng": -138.486},
+{"lat": 69.264, "lng": -138.937}
+]
+  },
+{
     "id":30,
     "type":"FINAL",
     "title":"",
