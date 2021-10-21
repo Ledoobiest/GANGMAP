@@ -203,6 +203,44 @@
 ]
   },
 {
+    "id":14,
+    "type":"Territorios",
+    "title":"Hell Angels Motorcycle Club",
+    "notes":"",
+	"wiki_link":"https://foro.am-rp.es/index.php?/topic/318-hells-angels-motorcycle-club/",
+    "order":2,
+	"strokecolor":"#e46767",
+	"fillcolor":"#e46767",
+    "latlngarray":  [
+{"lat": 64.870, "lng": -137.564},
+{"lat": 64.944, "lng": -137.015},
+{"lat": 65.208, "lng": -137.202},
+{"lat": 65.167, "lng": -137.487},
+{"lat": 65.195, "lng": -137.784},
+{"lat": 65.093, "lng": -137.762}
+]
+  },
+{
+    "id":15,
+    "type":"Territorios",
+    "title":"Anatomy of Hate",
+    "notes":"",
+	"wiki_link":"https://foro.am-rp.es/index.php?/topic/502-anatomy-of-a-hate/",
+    "order":2,
+	"strokecolor":"#b0aaa5",
+	"fillcolor":"#b0aaa5",
+    "latlngarray":  [
+{"lat": 63.078, "lng": -135.179},
+{"lat": 63.301, "lng": -134.630},
+{"lat": 63.434, "lng": -134.355},
+{"lat": 63.566, "lng": -134.290},
+{"lat": 63.678, "lng": -134.410},
+{"lat": 64.159, "lng": -135.165},
+{"lat": 63.788, "lng": -136.296},
+{"lat": 63.510, "lng": -135.879}
+]
+  },
+{
     "id":30,
     "type":"FINAL",
     "title":"",
