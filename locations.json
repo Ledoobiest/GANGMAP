@@ -2,12 +2,12 @@
   {
     "id":1,
     "type":"Territorios",
-    "title":"W/S Menlo Neighborhood Crips",
+    "title":"Inglewood Family Gangster Bloods",
     "notes":"",
 	"wiki_link":"https://foro.am-rp.es/index.php?/topic/84-menlo-neighborhood-crips/",
     "order":1,
-	"strokecolor":"#1389e6",
-	"fillcolor":"#1389e6",
+	"strokecolor":"#9d1f1f",
+	"fillcolor":"#9d1f1f",
     "latlngarray": [
 {"lat": 63.592, "lng": -124.823},
 {"lat": 64.091, "lng": -126.197},
@@ -238,6 +238,22 @@
 {"lat": 64.159, "lng": -135.165},
 {"lat": 63.788, "lng": -136.296},
 {"lat": 63.510, "lng": -135.879}
+]
+  },
+{
+    "id":16,
+    "type":"Territorios",
+    "title":"Eight Tray Hoover Criminal Gang",
+    "notes":"",
+	"wiki_link":"https://foro.am-rp.es/index.php?/topic/596-eight-tray-hoover-criminal-gang/",
+    "order":2,
+	"strokecolor":"#c07020",
+	"fillcolor":"#c07020",
+    "latlngarray":  [
+{"lat": 62.790, "lng": -120.891},
+{"lat": 62.517, "lng": -120.177},
+{"lat": 62.145, "lng": -121.012},
+{"lat": 62.390, "lng": -121.649}
 ]
   },
 {
