@@ -2,72 +2,70 @@
   {
     "id":1,
     "type":"Territorios",
-    "title":"Those Greedy Pigs",
+    "title":"Tiny Locotes (38 Street Gang)",
     "notes":"",
-	"wiki_link":"https://v1.ls-rp.es/thread-2486.html",
+	"wiki_link":"https://foro.gta-now.es/index.php?/topic/126-38th-street-gang/",
     "order":1,
-	"strokecolor":"#933081",
-	"fillcolor":"#933081",
+	"strokecolor":"#33A2FF",
+	"fillcolor":"#33A2FF",
     "latlngarray": [
-{"lat": 68.985, "lng": -121.033},
-{"lat": 68.811, "lng": -121.198},
-{"lat": 68.945, "lng": -122.154},
-{"lat": 69.103, "lng": -121.978}
+{"lat": -75.130, "lng": -6.244},
+{"lat": -74.426, "lng": -3.981},
+{"lat": -74.891, "lng": -1.828},
+{"lat": -75.536, "lng": -4.377}
 ]
   },
   {
     "id":2,
     "type":"Territorios",
-    "title":"Main Street Mafia Crip",
+    "title":"Mongols MC",
     "notes":"",
-	"wiki_link":"https://v1.ls-rp.es/thread-2520.html",
+	"wiki_link":"https://foro.gta-now.es/index.php?/topic/64-respect-few-fear-none-mongols-omg/",
     "order":1,
-	"strokecolor":"#3720f7",
-	"fillcolor":"#3720f7",
+	"strokecolor":"#071A29",
+	"fillcolor":"#071A29",
     "latlngarray": [
-{"lat": 64.198, "lng": -127.109},
-{"lat": 64.208, "lng": -126.912},
-{"lat": 63.496, "lng": -125.011},
-{"lat": 62.842, "lng": -126.253},
-{"lat": 63.037, "lng": -126.824},
-{"lat": 63.314, "lng": -127.890},
-{"lat": 63.735, "lng": -127.307},
-{"lat": 63.997, "lng": -127.120}
+{"lat": -75.068, "lng": -11.540},
+{"lat": -74.608, "lng": -9.936},
+{"lat": -75.118, "lng": -7.585},
+{"lat": -75.420, "lng": -8.661}
 ]
   },
   {
     "id":3,
-    "type":"DISPONIBLE",
-    "title":".",
+    "type":"Territorios",
+    "title":"West Coast Pagans MC",
     "notes":"",
-	"wiki_link":"https://v1.ls-rp.es/thread-2569.html",
+	"wiki_link":"https://foro.gta-now.es/index.php?/topic/79-the-blue-wave-west-coast-pagans-mc/",
     "order":2,
-	"strokecolor":"#f7ff00",
-	"fillcolor":"#f7ff00",
+	"strokecolor":"#291385",
+	"fillcolor":"#291385",
     "latlngarray": [
-{"lat": 66.611, "lng": -131.779},
-{"lat": 66.611, "lng": -130.878},
-{"lat": 66.224, "lng": -130.867},
-{"lat": 66.211, "lng": -131.823},
-{"lat": 66.268, "lng": -131.856},
-{"lat": 66.379, "lng": -131.801}
+{"lat": -74.540, "lng": 12.913},
+{"lat": -74.493, "lng": 14.583},
+{"lat": -74.381, "lng": 16.055},
+{"lat": -75.093, "lng": 17.088},
+{"lat": -75.216, "lng": 15.615},
+{"lat": -75.295, "lng": 13.901},
+{"lat": -75.278, "lng": 12.759}
 ]
   },
   {
     "id":4,
     "type":"Territorios",
-    "title":"83 Hoover Chamberlain Gang",
+    "title":"South Bay Aryan Skinheads",
     "notes":"",
-	"wiki_link":"https://v1.ls-rp.es/thread-2516.html",
+	"wiki_link":"https://foro.gta-now.es/index.php?/topic/249-south-bay-aryan-skinheads/",
     "order":2,
-	"strokecolor":"#e89e09",
-	"fillcolor":"#e89e09",
+	"strokecolor":"#45B25F",
+	"fillcolor":"#45B25F",
     "latlngarray": [
-{"lat": 64.226, "lng": -126.531},
-{"lat": 64.483, "lng": -125.597},
-{"lat": 64.483, "lng": -123.543},
-{"lat": 64.407, "lng": -123.246},
-{"lat": 63.593, "lng": -124.839}
+{"lat": -69.429, "lng": -54.281},
+			{"lat": -71.246, "lng": -52.479},
+			{"lat": -70.695, "lng": -48.810},
+			{"lat": -69.842, "lng": -50.150},
+			{"lat": -69.008, "lng": -50.480},
+			{"lat": -69.406, "lng": -53.073}
 ]
   },
   {
