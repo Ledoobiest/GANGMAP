@@ -33,8 +33,8 @@
 				</button>
 				<div class="dropdown-menu" aria-labelledby="ddmenu">
 					<a href="#" id="Atlas"           class="dropdown-item active" onclick="$('#' + map.getMapTypeId()).removeClass('active'); map.setMapTypeId('Atlas');           $(this).addClass('active');">Atlas</a>
-					<a href="#" id="Satellite"       class="dropdown-item"        onclick="$('#' + map.getMapTypeId()).removeClass('active'); map.setMapTypeId('Satellite');       $(this).addClass('active');">Satellite</a>
-					<a href="#" id="Road"            class="dropdown-item"        onclick="$('#' + map.getMapTypeId()).removeClass('active'); map.setMapTypeId('Road');            $(this).addClass('active');">Road</a>
+					<a href="#" id="Satellite"       class="dropdown-item"        onclick="$('#' + map.getMapTypeId()).removeClass('active'); map.setMapTypeId('Satellite');       $(this).addClass('active');">Satelite</a>
+					<a href="#" id="Road"            class="dropdown-item"        onclick="$('#' + map.getMapTypeId()).removeClass('active'); map.setMapTypeId('Road');            $(this).addClass('active');">Calles</a>
 				</div>
 			</div>
 
@@ -51,7 +51,7 @@
 					{{#each types}}
 						<li><label><input type="checkbox" {{#if enabled}}checked{{/if}} value="{{name}}"> <img src="icons/{{icon}}"> {{name}}</label> <a href="#" class="details" data-name="{{name}}"><i class="icon-chevron-sign-right"></i></a></li>
 					{{/each}}
-					<li><label><input type="checkbox" {{#if enabled}}checked{{/if}} value="labels"> <img src="icons/General/wall-breach.png"> Labels</label> <a href="#" class="details" data-name="Labels"></a></li>
+					<li><label><input type="checkbox" {{#if enabled}}checked{{/if}} value="labels"> <img src="icons/General/wall-breach.png"> Nombres</label> <a href="#" class="details" data-name="Labels"></a></li>
 
 				</ul>
 			</section>
