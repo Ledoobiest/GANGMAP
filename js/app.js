@@ -102,7 +102,7 @@ $(function() {
 	var categories = (window.cats = new CategoriesCollection([
 		{
 			name: 'Territorios',
-			icon: 'radar/gpoint.png',
+			icon: 'gpoint.png',
 			type: 'General',
 			enabled: true,
 		},
