@@ -282,5 +282,20 @@
 			{"lat": -75.645, "lng": -5.138},
 			{"lat": -75.303, "lng": -6.874}
 		]
-	}
+	},
+    {
+    "id":30,
+    "type":"FINAL",
+    "title":".",
+    "notes":"Prime time hostage taking VOL. 3",
+    "order":2,
+	"strokecolor":"#FFC0CB",
+	"fillcolor":"#fff",
+    "latlngarray":   [
+{"lat": 70.580, "lng": -119.984},
+{"lat": 70.378, "lng": -120.170},
+{"lat": 70.300, "lng": -119.335},
+{"lat": 70.477, "lng": -119.149}
+]
+  }
 ]
