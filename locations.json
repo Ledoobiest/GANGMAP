@@ -140,7 +140,7 @@
     "title":"Aparo Crime Family",
     "notes":"",
 	"wiki_link":"https://foro.gta-now.es/index.php?/topic/62-aparo-crime-family/",
-    "order"0,
+    "order":0,
 	"strokecolor":"268926",
 	"fillcolor":"268926",
     "latlngarray":  [
@@ -246,10 +246,48 @@
 ] 
   },
   {
+    "id":14,
+    "type":"Territorios",
+    "title":"Bastards on Wheels",
+    "notes":"",
+	"wiki_link":"https://foro.gta-now.es/index.php?/topic/221-bastards-on-wheels/",
+    "order":0,
+	"strokecolor":"424040",
+	"fillcolor":"424040",
+    "latlngarray":  [
+{"lat": -71.595, "lng": -49.150},
+{"lat": -71.315, "lng": -47.832},
+{"lat": -71.785, "lng": -46.898},
+{"lat": -72.051, "lng": -48.106}
+] 
+  },
+  {
+    "id":15,
+    "type":"Territorios",
+    "title":"Westside Diablos 13",
+    "notes":"",
+	"wiki_link":"https://foro.gta-now.es/index.php?/topic/240-westside-diablos-13/",
+    "order":0,
+	"strokecolor":"FFF977",
+	"fillcolor":"FFF977",
+    "latlngarray":  [
+{"lat": -76.312, "lng": -10.098},
+{"lat": -76.369, "lng": -9.076},
+{"lat": -76.416, "lng": -8.538},
+{"lat": -77.147, "lng": -5.182},
+{"lat": -77.186, "lng": -4.567},
+{"lat": -77.162, "lng": -3.776},
+{"lat": -76.562, "lng": -1.381},
+{"lat": -75.791, "lng": -4.523},
+{"lat": -75.645, "lng": -5.138},
+{"lat": -75.303, "lng": -6.874}
+] 
+  },
+  {
     "id":30,
     "type":"FINAL",
     "title":".",
-    "notes":"Prime time hostage taking VOL. 3",
+    "notes":".",
     "order":2,
 	"strokecolor":"#FFC0CB",
 	"fillcolor":"#fff",
