@@ -57,8 +57,8 @@
     "notes":"",
 	"wiki_link":"https://foro.gta-now.es/index.php?/topic/249-south-bay-aryan-skinheads/",
     "order":0,
-	"strokecolor":"B3B3B3",
-	"fillcolor":"B3B3B3",
+	"strokecolor":"6F6F6F",
+	"fillcolor":"6F6F6F",
     "latlngarray": [
 {"lat": -69.429, "lng": -54.281},
 {"lat": -71.246, "lng": -52.479},
@@ -252,8 +252,8 @@
     "notes":"",
 	"wiki_link":"https://foro.gta-now.es/index.php?/topic/221-bastards-on-wheels/",
     "order":0,
-	"strokecolor":"424040",
-	"fillcolor":"424040",
+	"strokecolor":"2D5F20",
+	"fillcolor":"2D5F20",
     "latlngarray":  [
 {"lat": -71.595, "lng": -49.150},
 {"lat": -71.315, "lng": -47.832},
