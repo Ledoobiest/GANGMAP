@@ -486,9 +486,8 @@ $(function() {
 });
 
 function printArray() {
-	var msg = 'Submit new regions here:\n'
-	+ 'https://github.com/skyrossm/np-gangmap/issues\n\n'
-	+ 'Right click the map to add points to the region. You may have to toggle regions off to be able to right click on the bottom layer. Fill in the values marked "<edit here>" and title the new issue using the format: "Add <title> region". Copy and paste everything below this. If your browser does not support selecting the text below press F12 to open the developer console and copy it from there. (scroll down)\n\n';
+	var msg = 'Para añadir un nuevo territorio contacta con el IFM:\n'
+	+ 'Pulsa click derecho sobre el mapa para indicar los puntos (siempre en orden) y pulsa de nuevo en el botón Añadir nuevo territorio. Finalmente pulsa F12 para ir a la consola de la pagina y ver las coordenadas. \n\n';
 	msg += '```json\n\t{\n\t\t"id": 0,'
 	+ '\n\t\t"type": "Territories",'
 	+ '\n\t\t"title": "<edit this>",'
