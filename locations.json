@@ -290,12 +290,12 @@
 	{
 		"id":16,
 		"type":"Territorios",
-		"title":"Kkangpae Double Dragon Family",
+		"title":"Kkangpae - Double Dragon Family",
 		"notes":"",
 		"wiki_link":"https://foro.gta-now.es/index.php?/topic/248-kkangpae-double-dragon-family-%EC%8C%8D%EC%9A%A9%ED%8C%8C/",
 		"order":0,
-		"strokecolor":"6D8EC8",
-		"fillcolor":"6D8EC8",
+		"strokecolor":"001BFF",
+		"fillcolor":"001BFF",
 		"latlngarray":  [
   {"lat": -69.404, "lng": -49.496},
   {"lat": -69.354, "lng": -48.177},
@@ -316,8 +316,8 @@
 		"notes":"",
 		"wiki_link":"https://foro.gta-now.es/index.php?/topic/243-arizona-maravilla/",
 		"order":0,
-		"strokecolor":"A0C181",
-		"fillcolor":"A0C181",
+		"strokecolor":"E3639D",
+		"fillcolor":"E3639D",
 		"latlngarray":  [
 			{"lat": -74.873, "lng": 19.464},
 			{"lat": -74.496, "lng": 22.913},
@@ -329,7 +329,7 @@
   ] 
 	},
 	{
-		"id":3,
+		"id":18,
 		"type":"Territorios",
 		"title":"West Coast Pagans MC",
 		"notes":"",
