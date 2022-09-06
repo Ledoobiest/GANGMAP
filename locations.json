@@ -288,7 +288,64 @@
   ] 
 	},
 	{
-	  "id":30,
+		"id":16,
+		"type":"Territorios",
+		"title":"Kkangpae Double Dragon Family",
+		"notes":"",
+		"wiki_link":"https://foro.gta-now.es/index.php?/topic/248-kkangpae-double-dragon-family-%EC%8C%8D%EC%9A%A9%ED%8C%8C/",
+		"order":0,
+		"strokecolor":"6D8EC8",
+		"fillcolor":"6D8EC8",
+		"latlngarray":  [
+  {"lat": -69.404, "lng": -49.496},
+  {"lat": -69.354, "lng": -48.177},
+  {"lat": -69.077, "lng": -46.705},
+  {"lat": -69.972, "lng": -45.266},
+  {"lat": -70.279, "lng": -46.881},
+  {"lat": -70.331, "lng": -47.408},
+  {"lat": -70.356, "lng": -47.859},
+  {"lat": -70.323, "lng": -48.309},
+  {"lat": -70.242, "lng": -48.782},
+  {"lat": -69.685, "lng": -49.375}
+  ] 
+	},
+	{
+		"id":17,
+		"type":"Territorios",
+		"title":"E/S Arizona Maravilla",
+		"notes":"",
+		"wiki_link":"https://foro.gta-now.es/index.php?/topic/243-arizona-maravilla/",
+		"order":0,
+		"strokecolor":"A0C181",
+		"fillcolor":"A0C181",
+		"latlngarray":  [
+			{"lat": -74.873, "lng": 19.464},
+			{"lat": -74.496, "lng": 22.913},
+			{"lat": -74.313, "lng": 25.660},
+			{"lat": -73.855, "lng": 25.045},
+			{"lat": -73.352, "lng": 23.682},
+			{"lat": -73.800, "lng": 21.134},
+			{"lat": -74.121, "lng": 18.541}
+  ] 
+	},
+	{
+		"id":3,
+		"type":"Territorios",
+		"title":"West Coast Pagans MC",
+		"notes":"",
+		"wiki_link":"https://foro.gta-now.es/index.php?/topic/79-the-blue-wave-west-coast-pagans-mc/",
+		"order":0,
+		"strokecolor":"525A92",
+		"fillcolor":"525A92",
+		"latlngarray": [
+			{"lat": -73.141, "lng": 21.152},
+			{"lat": -73.463, "lng": 21.757},
+			{"lat": -73.353, "lng": 22.361},
+			{"lat": -73.029, "lng": 21.812}
+	]
+	  },
+	{
+	  "id":100,
 	  "type":"FINAL",
 	  "title":".",
 	  "notes":".",
