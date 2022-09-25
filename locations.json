@@ -9,10 +9,16 @@
 	  "strokecolor":"33A2FF",
 	  "fillcolor":"33A2FF",
 	  "latlngarray": [
-  {"lat": -75.130, "lng": -6.244},
-  {"lat": -74.426, "lng": -3.981},
-  {"lat": -74.891, "lng": -1.828},
-  {"lat": -75.536, "lng": -4.377}
+		{"lat": -76.312, "lng": -10.098},
+		{"lat": -76.369, "lng": -9.076},
+		{"lat": -76.416, "lng": -8.538},
+		{"lat": -77.147, "lng": -5.182},
+		{"lat": -77.186, "lng": -4.567},
+		{"lat": -77.162, "lng": -3.776},
+		{"lat": -76.562, "lng": -1.381},
+		{"lat": -75.791, "lng": -4.523},
+		{"lat": -75.645, "lng": -5.138},
+		{"lat": -75.303, "lng": -6.874}
   ]
 	},
 	{
@@ -41,17 +47,16 @@
 	  "strokecolor":"525A92",
 	  "fillcolor":"525A92",
 	  "latlngarray": [
-  {"lat": -74.466, "lng": 12.942},
-  {"lat": -74.475, "lng": 13.919},
-  {"lat": -74.475, "lng": 14.546},
-  {"lat": -74.457, "lng": 14.897},
-  {"lat": -74.383, "lng": 16.062},
-  {"lat": -75.098, "lng": 17.121},
-  {"lat": -75.219, "lng": 15.858},
-  {"lat": -75.245, "lng": 15.451},
-  {"lat": -75.261, "lng": 14.968},
-  {"lat": -75.278, "lng": 14.067},
-  {"lat": -75.275, "lng": 12.836}
+		{"lat": -73.932, "lng": 18.378},
+		{"lat": -73.466, "lng": 18.224},
+		{"lat": -73.271, "lng": 18.389},
+		{"lat": -72.968, "lng": 19.740},
+		{"lat": -72.673, "lng": 21.135},
+		{"lat": -72.555, "lng": 22.025},
+		{"lat": -72.858, "lng": 22.520},
+		{"lat": -73.160, "lng": 23.289},
+		{"lat": -73.544, "lng": 21.399},
+		{"lat": -73.748, "lng": 19.773}
   ]
 	},
 	{
@@ -98,8 +103,8 @@
 	  "notes":"",
 	  "wiki_link":"https://foro.gta-now.es/index.php?/topic/75-south-island%E2%80%99s-traffic-organization-los-santos-connection/",
 	  "order":0,
-	  "strokecolor":"C3C735",
-	  "fillcolor":"C3C735",
+	  "strokecolor":"AAB04E",
+	  "fillcolor":"AAB04E",
 	  "latlngarray": [
   {"lat": -71.509, "lng": 0.320},
   {"lat": -70.864, "lng": 0.276},
@@ -126,8 +131,8 @@
 	  "notes":"",
 	  "wiki_link":"https://foro.gta-now.es/index.php?/topic/130-tokyo-plaza-%E6%9D%B1%E4%BA%AC%E3%83%97%E3%82%B6%E3%83%A9/",
 	  "order":0,
-	  "strokecolor":"1A1AA4",
-	  "fillcolor":"1A1AA4",
+	  "strokecolor":"690FA4",
+	  "fillcolor":"690FA4",
 	  "latlngarray":  [
   {"lat": -65.415, "lng": -39.444},
   {"lat": -66.616, "lng": -39.444},
@@ -180,8 +185,8 @@
 	  "notes":"",
 	  "wiki_link":"https://foro.gta-now.es/index.php?/topic/129-take-none-give-none-the-chosen-few-mc/",
 	  "order":0,
-	  "strokecolor":"971414",
-	  "fillcolor":"971414",
+	  "strokecolor":"4F1D12",
+	  "fillcolor":"4F1D12",
 	  "latlngarray": [
   {"lat": -73.675, "lng": -12.752},
   {"lat": -73.110, "lng": -9.544},
@@ -268,23 +273,20 @@
 	{
 	  "id":15,
 	  "type":"Territorios",
-	  "title":"Westside Diablos 13",
+	  "title":"804 B.J Park Smith Brims",
 	  "notes":"",
-	  "wiki_link":"https://foro.gta-now.es/index.php?/topic/240-westside-diablos-13/",
+	  "wiki_link":"https://foro.gta-now.es/index.php?/topic/316-804-bj-smith-park-brims",
 	  "order":0,
-	  "strokecolor":"E7EA00",
-	  "fillcolor":"E7EA00",
+	  "strokecolor":"C51B68",
+	  "fillcolor":"C51B68",
 	  "latlngarray":  [
-  {"lat": -76.312, "lng": -10.098},
-  {"lat": -76.369, "lng": -9.076},
-  {"lat": -76.416, "lng": -8.538},
-  {"lat": -77.147, "lng": -5.182},
-  {"lat": -77.186, "lng": -4.567},
-  {"lat": -77.162, "lng": -3.776},
-  {"lat": -76.562, "lng": -1.381},
-  {"lat": -75.791, "lng": -4.523},
-  {"lat": -75.645, "lng": -5.138},
-  {"lat": -75.303, "lng": -6.874}
+		{"lat": -72.193, "lng": -20.057},
+		{"lat": -72.470, "lng": -18.980},
+		{"lat": -73.036, "lng": -20.536},
+		{"lat": -73.761, "lng": -20.504},
+		{"lat": -73.990, "lng": -21.525},
+		{"lat": -73.899, "lng": -22.053},
+		{"lat": -72.872, "lng": -22.064}
   ] 
 	},
 	{
@@ -294,8 +296,8 @@
 		"notes":"",
 		"wiki_link":"https://foro.gta-now.es/index.php?/topic/248-kkangpae-double-dragon-family-%EC%8C%8D%EC%9A%A9%ED%8C%8C/",
 		"order":0,
-		"strokecolor":"001BFF",
-		"fillcolor":"001BFF",
+		"strokecolor":"1B008A",
+		"fillcolor":"1B008A",
 		"latlngarray":  [
   {"lat": -69.404, "lng": -49.496},
   {"lat": -69.354, "lng": -48.177},
@@ -312,20 +314,18 @@
 	{
 		"id":17,
 		"type":"Territorios",
-		"title":"E/S Arizona Maravilla",
+		"title":"Eastside Playboys 13",
 		"notes":"",
-		"wiki_link":"https://foro.gta-now.es/index.php?/topic/243-arizona-maravilla/",
+		"wiki_link":"https://foro.gta-now.es/index.php?/topic/293-eastside-playboys-13/",
 		"order":0,
-		"strokecolor":"E3639D",
-		"fillcolor":"E3639D",
+		"strokecolor":"4C8290",
+		"fillcolor":"4C8290",
 		"latlngarray":  [
-			{"lat": -74.873, "lng": 19.464},
-			{"lat": -74.496, "lng": 22.913},
-			{"lat": -74.313, "lng": 25.660},
-			{"lat": -73.855, "lng": 25.045},
-			{"lat": -73.352, "lng": 23.682},
-			{"lat": -73.800, "lng": 21.134},
-			{"lat": -74.121, "lng": 18.541}
+			{"lat": -72.610, "lng": -18.451},
+			{"lat": -73.150, "lng": -16.177},
+			{"lat": -73.992, "lng": -18.693},
+			{"lat": -73.748, "lng": -19.857},
+			{"lat": -73.096, "lng": -19.802}
   ] 
 	},
 	{
@@ -335,13 +335,10 @@
 		"notes":"",
 		"wiki_link":"https://foro.gta-now.es/index.php?/topic/79-the-blue-wave-west-coast-pagans-mc/",
 		"order":0,
-		"strokecolor":"525A92",
-		"fillcolor":"525A92",
+		"strokecolor":"E7EA00",
+	  "fillcolor":"E7EA00",
 		"latlngarray": [
-			{"lat": -73.141, "lng": 21.152},
-			{"lat": -73.463, "lng": 21.757},
-			{"lat": -73.353, "lng": 22.361},
-			{"lat": -73.029, "lng": 21.812}
+			
 	]
 	  },
 	  {
@@ -351,8 +348,8 @@
 		"notes":"",
 		"wiki_link":"https://foro.gta-now.es/index.php?/topic/242-compton-varrio-3",
 		"order":0,
-		"strokecolor":"9E4773",
-		"fillcolor":"9E4773",
+		"strokecolor":"D2DE1D",
+		"fillcolor":"D2DE1D",
 		"latlngarray": [
 			{"lat": -74.149, "lng": -16.610},
 			{"lat": -74.367, "lng": -18.587},
