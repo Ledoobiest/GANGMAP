@@ -331,14 +331,17 @@
 	{
 		"id":18,
 		"type":"Territorios",
-		"title":"West Coast Pagans MC",
+		"title":"Sandy's Bastards",
 		"notes":"",
-		"wiki_link":"https://foro.gta-now.es/index.php?/topic/79-the-blue-wave-west-coast-pagans-mc/",
+		"wiki_link":".",
 		"order":0,
-		"strokecolor":"E7EA00",
-	  "fillcolor":"E7EA00",
+		"strokecolor":"7A0000",
+	  "fillcolor":"7A0000",
 		"latlngarray": [
-			
+			{"lat": 43.312, "lng": 40.048},
+			{"lat": 42.158, "lng": 40.982},
+			{"lat": 43.032, "lng": 43.080},
+			{"lat": 44.193, "lng": 42.048}
 	]
 	  },
 	  {
@@ -351,25 +354,33 @@
 		"strokecolor":"D2DE1D",
 		"fillcolor":"D2DE1D",
 		"latlngarray": [
-			{"lat": -74.149, "lng": -16.610},
-			{"lat": -74.367, "lng": -18.587},
-			{"lat": -74.426, "lng": -18.972},
-			{"lat": -74.514, "lng": -19.280},
-			{"lat": -74.631, "lng": -19.884},
-			{"lat": -74.974, "lng": -18.137},
-			{"lat": -75.662, "lng": -14.533},
-			{"lat": -75.859, "lng": -13.434},
-			{"lat": -76.136, "lng": -12.511},
-			{"lat": -76.308, "lng": -12.325},
-			{"lat": -76.313, "lng": -11.039},
-			{"lat": -76.172, "lng": -10.940},
-			{"lat": -76.067, "lng": -10.776},
-			{"lat": -75.572, "lng": -9.182},
-			{"lat": -75.481, "lng": -9.776},
-			{"lat": -75.234, "lng": -11.973},
-			{"lat": -75.092, "lng": -12.555},
-			{"lat": -74.622, "lng": -14.742},
-			{"lat": -74.452, "lng": -15.247}
+			{"lat": -75.236, "lng": -12.012},
+			{"lat": -75.442, "lng": -12.737},
+			{"lat": -75.508, "lng": -13.264},
+			{"lat": -75.639, "lng": -14.187},
+			{"lat": -75.856, "lng": -13.616},
+			{"lat": -76.153, "lng": -12.561},
+			{"lat": -76.320, "lng": -12.275},
+			{"lat": -76.331, "lng": -10.891},
+			{"lat": -76.116, "lng": -10.803},
+			{"lat": -75.607, "lng": -9.133},
+			{"lat": -75.447, "lng": -10.034}
+	]
+	  },
+	  {
+		"id":20,
+		"type":"Territorios",
+		"title":"Devils Riders MC",
+		"notes":"",
+		"wiki_link":".",
+		"order":0,
+		"strokecolor":"282828",
+		"fillcolor":"282828",
+		"latlngarray": [
+			{"lat": -60.056, "lng": -62.140},
+			{"lat": -60.767, "lng": -60.426},
+			{"lat": -59.930, "lng": -57.723},
+			{"lat": -58.759, "lng": -60.250}
 	]
 	  },
 	{
