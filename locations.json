@@ -99,29 +99,19 @@
 	{
 	  "id":6,
 	  "type":"Territorios",
-	  "title":"Los Santos Connection (Haitian Mafia)",
+	  "title":"West Anaheim Folks",
 	  "notes":"",
-	  "wiki_link":"https://foro.gta-now.es/index.php?/topic/75-south-island%E2%80%99s-traffic-organization-los-santos-connection/",
+	  "wiki_link":"https://foro.gta-now.org/index.php?/topic/378-west-anaheim-folks",
 	  "order":0,
-	  "strokecolor":"AAB04E",
-	  "fillcolor":"AAB04E",
+	  "strokecolor":"115C11",
+	  "fillcolor":"115C11",
 	  "latlngarray": [
-  {"lat": -71.509, "lng": 0.320},
-  {"lat": -70.864, "lng": 0.276},
-  {"lat": -70.375, "lng": -0.581},
-  {"lat": -69.716, "lng": -0.691},
-  {"lat": -69.708, "lng": -8.820},
-  {"lat": -69.958, "lng": -10.710},
-  {"lat": -70.086, "lng": -11.765},
-  {"lat": -70.153, "lng": -12.512},
-  {"lat": -70.842, "lng": -11.699},
-  {"lat": -71.086, "lng": -10.556},
-  {"lat": -70.457, "lng": -9.128},
-  {"lat": -70.272, "lng": -8.227},
-  {"lat": -70.287, "lng": -5.898},
-  {"lat": -70.835, "lng": -3.503},
-  {"lat": -71.369, "lng": -1.635},
-  {"lat": -71.495, "lng": -0.976}
+		{"lat": -73.777, "lng": -13.536},
+		{"lat": -74.465, "lng": -10.503},
+		{"lat": -75.102, "lng": -12.580},
+		{"lat": -74.615, "lng": -14.777},
+		{"lat": -74.442, "lng": -15.271},
+		{"lat": -74.159, "lng": -16.601}
   ]
 	},
 	{
@@ -165,17 +155,19 @@
 	{
 	  "id":9,
 	  "type":"Territorios",
-	  "title":"Los Santos Bums",
+	  "title":"Carnales MC",
 	  "notes":"",
-	  "wiki_link":"https://foro.gta-now.es/index.php?/topic/224-los-santos-bums/",
+	  "wiki_link":"https://foro.gta-now.org/index.php?/topic/357-south-side-story-carnales-mc/",
 	  "order":0,
-	  "strokecolor":"4F2A05",
-	  "fillcolor":"4F2A05",
+	  "strokecolor":"AAB04E",
+	  "fillcolor":"AAB04E",
 	  "latlngarray":  [
-  {"lat": -65.664, "lng": -2.769},
-  {"lat": -66.505, "lng": -2.824},
-  {"lat": -66.488, "lng": -0.770},
-  {"lat": -65.673, "lng": -0.704}
+		{"lat": -74.861, "lng": -0.965},
+		{"lat": -74.621, "lng": -0.207},
+		{"lat": -74.676, "lng": 0.496},
+		{"lat": -74.812, "lng": 0.551},
+		{"lat": -74.978, "lng": -0.010},
+		{"lat": -75.026, "lng": -0.405}
   ]
 	},
 	{
@@ -264,10 +256,7 @@
 	  "strokecolor":"2D5F20",
 	  "fillcolor":"2D5F20",
 	  "latlngarray":  [
-  {"lat": -71.595, "lng": -49.150},
-  {"lat": -71.315, "lng": -47.832},
-  {"lat": -71.785, "lng": -46.898},
-  {"lat": -72.051, "lng": -48.106}
+ 
   ] 
 	},
 	{
@@ -333,7 +322,7 @@
 		"type":"Territorios",
 		"title":"Sandy's Bastards",
 		"notes":"",
-		"wiki_link":".",
+		"wiki_link":"https://foro.gta-now.org/index.php?/topic/125-sandys-bastards/",
 		"order":0,
 		"strokecolor":"7A0000",
 	  "fillcolor":"7A0000",
@@ -372,10 +361,10 @@
 		"type":"Territorios",
 		"title":"Devils Riders MC",
 		"notes":"",
-		"wiki_link":".",
+		"wiki_link":"https://foro.gta-now.org/index.php?/topic/339-devil-riders-mc/",
 		"order":0,
-		"strokecolor":"282828",
-		"fillcolor":"282828",
+		"strokecolor":"350A3B",
+		"fillcolor":"350A3B",
 		"latlngarray": [
 			{"lat": -60.056, "lng": -62.140},
 			{"lat": -60.767, "lng": -60.426},
@@ -399,4 +388,3 @@
   ]
 	}
   ]
-  
