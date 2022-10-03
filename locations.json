@@ -219,9 +219,9 @@
 	{
 	  "id":13,
 	  "type":"Territorios",
-	  "title":"Athens Park Bloods (APB)",
+	  "title":"Rollin 30s Blood Stone Piru",
 	  "notes":"",
-	  "wiki_link":"https://foro.gta-now.org/index.php?/topic/234-athens-park-bloods-apb/",
+	  "wiki_link":"https://foro.gta-now.org/index.php?/topic/420-rollin-30s-blood-stone-piru/",
 	  "order":0,
 	  "strokecolor":"E33838",
 	  "fillcolor":"E33838",
@@ -240,46 +240,56 @@
 	{
 	  "id":14,
 	  "type":"Territorios",
-	  "title":"Bastards on Wheels",
+	  "title":"806 B.J. Smith Park Brims",
 	  "notes":"",
-	  "wiki_link":"https://foro.gta-now.org/index.php?/topic/221-bastards-on-wheels/",
+	  "wiki_link":"https://foro.gta-now.org/index.php?/topic/370-806-bj-smith-park-brims/",
 	  "order":0,
-	  "strokecolor":"2D5F20",
-	  "fillcolor":"2D5F20",
+	  "strokecolor":"FF7777",
+	  "fillcolor":"FF7777",
 	  "latlngarray":  [
- 
+		{"lat": -71.651, "lng": -20.977},
+		{"lat": -72.277, "lng": -18.406},
+		{"lat": -71.814, "lng": -17.198},
+		{"lat": -71.621, "lng": -17.484},
+		{"lat": -71.412, "lng": -17.638},
+		{"lat": -71.088, "lng": -17.616},
+		{"lat": -71.088, "lng": -17.945}
   ] 
 	},
 	{
 	  "id":15,
 	  "type":"Territorios",
-	  "title":"804 B.J Park Smith Brims",
+	  "title":"804 B.J. Smith Park Brims",
 	  "notes":"",
 	  "wiki_link":"https://foro.gta-now.org/index.php?/topic/316-804-bj-smith-park-brims",
 	  "order":0,
-	  "strokecolor":"C51B68",
-	  "fillcolor":"C51B68",
+	  "strokecolor":"B67B95",
+	  "fillcolor":"B67B95",
 	  "latlngarray":  [
-		{"lat": -72.193, "lng": -20.057},
-		{"lat": -72.470, "lng": -18.980},
-		{"lat": -73.036, "lng": -20.536},
-		{"lat": -73.761, "lng": -20.504},
-		{"lat": -73.990, "lng": -21.525},
-		{"lat": -73.899, "lng": -22.053},
-		{"lat": -72.872, "lng": -22.064}
+		{"lat": -71.686, "lng": -22.427},
+			{"lat": -71.682, "lng": -21.888},
+			{"lat": -72.463, "lng": -18.977},
+			{"lat": -72.940, "lng": -20.208},
+			{"lat": -72.661, "lng": -21.405},
+			{"lat": -72.621, "lng": -22.866},
+			{"lat": -72.354, "lng": -22.614},
+			{"lat": -72.136, "lng": -22.460}
   ] 
 	},
 	{
 		"id":16,
 		"type":"Territorios",
-		"title":"Kkangpae - Double Dragon Family",
+		"title":"Denver Line Bloods",
 		"notes":"",
-		"wiki_link":"https://foro.gta-now.org/index.php?/topic/248-kkangpae-double-dragon-family-%EC%8C%8D%EC%9A%A9%ED%8C%8C/",
+		"wiki_link":"https://foro.gta-now.org/index.php?/topic/412-pasadena-denver-lane-bloods",
 		"order":0,
-		"strokecolor":"1B008A",
-		"fillcolor":"1B008A",
+		"strokecolor":"A43D3D",
+		"fillcolor":"A43D3D",
 		"latlngarray":  [
-  
+			{"lat": -72.656, "lng": -16.761},
+			{"lat": -72.359, "lng": -15.794},
+			{"lat": -72.584, "lng": -14.586},
+			{"lat": -72.962, "lng": -15.597}
   ] 
 	},
 	{
