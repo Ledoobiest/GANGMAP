@@ -2,14 +2,22 @@
 	{
 	  "id":1,
 	  "type":"Territorios",
-	  "title":"Tiny Locotes (38 Street Gang)",
+	  "title":"Rollin 90s Neighborhood Crips",
 	  "notes":"",
-	  "wiki_link":"https://foro.gta-now.org/index.php?/topic/126-38th-street-gang/",
+	  "wiki_link":"https://foro.gta-now.org/index.php?/topic/390-rollin-90s-neighborhood-crips/",
 	  "order":0,
-	  "strokecolor":"33A2FF",
-	  "fillcolor":"33A2FF",
+	  "strokecolor":"2C56F4",
+	  "fillcolor":"2C56F4",
 	  "latlngarray": [
-		
+		{"lat": -74.649, "lng": -4.732},
+			{"lat": -74.857, "lng": -3.678},
+			{"lat": -75.309, "lng": -5.435},
+			{"lat": -75.710, "lng": -3.656},
+			{"lat": -75.563, "lng": -2.161},
+			{"lat": -75.298, "lng": -1.656},
+			{"lat": -75.107, "lng": -0.975},
+			{"lat": -74.885, "lng": -1.876},
+			{"lat": -74.408, "lng": -4.029}
   ]
 	},
 	{
@@ -71,20 +79,17 @@
 	{
 	  "id":5,
 	  "type":"Territorios",
-	  "title":"Golden Silk Valley",
+	  "title":"Vagos Motorcycle Club",
 	  "notes":"",
-	  "wiki_link":"https://foro.gta-now.org/index.php?/topic/73-golden-silk-valley-%E9%87%91%E7%B5%B2%E8%B0%B7/",
+	  "wiki_link":"https://foro.gta-now.org/index.php?/topic/574-vagos-outlaw-motorcycle-gang/",
 	  "order":0,
-	  "strokecolor":"FF7800",
-	  "fillcolor":"FF7800",
+	  "strokecolor":"0F9019",
+	  "fillcolor":"0F9019",
 	  "latlngarray": [
-  {"lat": -63.399, "lng": -0.622},
-  {"lat": -63.389, "lng": -3.951},
-  {"lat": -63.359, "lng": -4.390},
-  {"lat": -65.328, "lng": -5.950},
-  {"lat": -65.332, "lng": -3.489},
-  {"lat": -64.949, "lng": -2.720},
-  {"lat": -64.954, "lng": -0.655}
+		{"lat": -50.866, "lng": -4.183},
+		{"lat": -51.840, "lng": -4.799},
+		{"lat": -52.286, "lng": -2.843},
+		{"lat": -51.321, "lng": -2.162}
   ]
 	},
 	{
@@ -129,7 +134,7 @@
 	  "type":"Territorios",
 	  "title":"Aparo Crime Family",
 	  "notes":"",
-	  "wiki_link":"https://foro.gta-now.org/index.php?/topic/62-aparo-crime-famil6y/",
+	  "wiki_link":"https://foro.gta-now.org/index.php?/topic/62-aparo-crime-family/",
 	  "order":0,
 	  "strokecolor":"67BE46",
 	  "fillcolor":"67BE46",
@@ -279,7 +284,7 @@
 	{
 		"id":16,
 		"type":"Territorios",
-		"title":"Denver Lane Bloods",
+		"title":"Denver Line Bloods",
 		"notes":"",
 		"wiki_link":"https://foro.gta-now.org/index.php?/topic/412-pasadena-denver-lane-bloods",
 		"order":0,
@@ -299,8 +304,8 @@
 		"notes":"",
 		"wiki_link":"https://foro.gta-now.org/index.php?/topic/293-eastside-playboys-13/",
 		"order":0,
-		"strokecolor":"4C8290",
-		"fillcolor":"4C8290",
+		"strokecolor":"33A2FF",
+		"fillcolor":"33A2FF",
 		"latlngarray":  [
 			{"lat": -72.610, "lng": -18.451},
 			{"lat": -73.150, "lng": -16.177},
