@@ -25,15 +25,22 @@
 	  "type":"Territorios",
 	  "title":"Mongols Motorcycle Club",
 	  "notes":"",
-	  "wiki_link":"https://foro.gta-now.org/index.php?/topic/64-respect-few-fear-none-mongols-omg/",
+	  "wiki_link":"https://foro.gta-now.org/index.php?/topic/356-7th-circle-black-white-nation/",
 	  "order":0,
 	  "strokecolor":"0D0D0D",
 	  "fillcolor":"0D0D0D",
 	  "latlngarray": [
-  {"lat": -75.068, "lng": -11.540},
-  {"lat": -74.608, "lng": -9.936},
-  {"lat": -75.118, "lng": -7.585},
-  {"lat": -75.420, "lng": -8.661}
+		{"lat": -75.236, "lng": -12.012},
+		{"lat": -75.442, "lng": -12.737},
+		{"lat": -75.508, "lng": -13.264},
+		{"lat": -75.639, "lng": -14.187},
+		{"lat": -75.856, "lng": -13.616},
+		{"lat": -76.153, "lng": -12.561},
+		{"lat": -76.320, "lng": -12.275},
+		{"lat": -76.331, "lng": -10.891},
+		{"lat": -76.116, "lng": -10.803},
+		{"lat": -75.607, "lng": -9.133},
+		{"lat": -75.447, "lng": -10.034}
   ]
 	},
 	{
@@ -139,16 +146,16 @@
 	  "strokecolor":"67BE46",
 	  "fillcolor":"67BE46",
 	  "latlngarray":  [
-  {"lat": -65.595, "lng": -3.411},
-			{"lat": -65.577, "lng": -6.224},
-			{"lat": -64.690, "lng": -13.519},
-			{"lat": -68.608, "lng": -17.408},
-			{"lat": -68.544, "lng": -13.804},
-			{"lat": -68.504, "lng": -9.102},
-			{"lat": -68.528, "lng": -8.245},
-			{"lat": -68.504, "lng": -0.753},
-			{"lat": -67.768, "lng": -0.621},
-			{"lat": -67.817, "lng": -3.719}
+		{"lat": -65.595, "lng": -3.411},
+		{"lat": -65.577, "lng": -6.224},
+		{"lat": -64.690, "lng": -13.519},
+		{"lat": -68.608, "lng": -17.408},
+		{"lat": -68.544, "lng": -13.804},
+		{"lat": -68.504, "lng": -9.102},
+		{"lat": -68.528, "lng": -8.245},
+		{"lat": -68.504, "lng": -0.753},
+		{"lat": -67.768, "lng": -0.621},
+		{"lat": -67.817, "lng": -3.719}
   ]
 	},
 	{
@@ -335,7 +342,7 @@
 	  },
 	  {
 		"id":19,
-		"type":"Territorios",
+		"type":"",
 		"title":"Compton Varrio 3",
 		"notes":"",
 		"wiki_link":"foro.gta-now.org/index.php?/topic/242-compton-varrio-3",
@@ -343,17 +350,7 @@
 		"strokecolor":"D2DE1D",
 		"fillcolor":"D2DE1D",
 		"latlngarray": [
-			{"lat": -75.236, "lng": -12.012},
-			{"lat": -75.442, "lng": -12.737},
-			{"lat": -75.508, "lng": -13.264},
-			{"lat": -75.639, "lng": -14.187},
-			{"lat": -75.856, "lng": -13.616},
-			{"lat": -76.153, "lng": -12.561},
-			{"lat": -76.320, "lng": -12.275},
-			{"lat": -76.331, "lng": -10.891},
-			{"lat": -76.116, "lng": -10.803},
-			{"lat": -75.607, "lng": -9.133},
-			{"lat": -75.447, "lng": -10.034}
+			
 	]
 	  },
 	  {
