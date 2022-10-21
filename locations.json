@@ -68,24 +68,24 @@
 	{
 	  "id":4,
 	  "type":"Territorios",
-	  "title":"South Bay Aryan Skinheads",
+	  "title":"Kriminale Shqiptar",
 	  "notes":"",
-	  "wiki_link":"https://foro.gta-now.org/index.php?/topic/249-south-bay-aryan-skinheads/",
+	  "wiki_link":"https://foro.gta-now.org/index.php?/topic/736-banda-kriminale-shqiptar/",
 	  "order":0,
-	  "strokecolor":"6F6F6F",
-	  "fillcolor":"6F6F6F",
+	  "strokecolor":"840000",
+	  "fillcolor":"840000",
 	  "latlngarray": [
-  {"lat": -69.429, "lng": -54.281},
-  {"lat": -71.246, "lng": -52.479},
-  {"lat": -70.695, "lng": -48.810},
-  {"lat": -69.842, "lng": -50.150},
-  {"lat": -69.008, "lng": -50.480},
-  {"lat": -69.406, "lng": -53.073}
+		{"lat": -50.902, "lng": -26.210},
+		{"lat": -50.847, "lng": -21.772},
+		{"lat": -51.220, "lng": -21.706},
+		{"lat": -53.539, "lng": -22.651},
+		{"lat": -52.881, "lng": -26.166},
+		{"lat": -52.213, "lng": -26.101}
   ]
 	},
 	{
 	  "id":5,
-	  "type":"Territorios",
+	  "type":"",
 	  "title":"Vagos Motorcycle Club",
 	  "notes":"",
 	  "wiki_link":"https://foro.gta-now.org/index.php?/topic/574-vagos-outlaw-motorcycle-gang/",
@@ -93,10 +93,7 @@
 	  "strokecolor":"0F9019",
 	  "fillcolor":"0F9019",
 	  "latlngarray": [
-		{"lat": -50.866, "lng": -4.183},
-		{"lat": -51.840, "lng": -4.799},
-		{"lat": -52.286, "lng": -2.843},
-		{"lat": -51.321, "lng": -2.162}
+		
   ]
 	},
 	{
@@ -138,7 +135,7 @@
 	},
 	{
 	  "id":8,
-	  "type":"Territorios",
+	  "type":"",
 	  "title":"Aparo Crime Family",
 	  "notes":"",
 	  "wiki_link":"https://foro.gta-now.org/index.php?/topic/62-aparo-crime-family/",
@@ -146,16 +143,7 @@
 	  "strokecolor":"67BE46",
 	  "fillcolor":"67BE46",
 	  "latlngarray":  [
-		{"lat": -65.595, "lng": -3.411},
-		{"lat": -65.577, "lng": -6.224},
-		{"lat": -64.690, "lng": -13.519},
-		{"lat": -68.608, "lng": -17.408},
-		{"lat": -68.544, "lng": -13.804},
-		{"lat": -68.504, "lng": -9.102},
-		{"lat": -68.528, "lng": -8.245},
-		{"lat": -68.504, "lng": -0.753},
-		{"lat": -67.768, "lng": -0.621},
-		{"lat": -67.817, "lng": -3.719}
+		
   ]
 	},
 	{
@@ -309,7 +297,7 @@
 	},
 	{
 		"id":17,
-		"type":"Territorios",
+		"type":"",
 		"title":"Eastside Playboys 13",
 		"notes":"",
 		"wiki_link":"https://foro.gta-now.org/index.php?/topic/293-eastside-playboys-13/",
@@ -317,16 +305,12 @@
 		"strokecolor":"33A2FF",
 		"fillcolor":"33A2FF",
 		"latlngarray":  [
-			{"lat": -72.610, "lng": -18.451},
-			{"lat": -73.150, "lng": -16.177},
-			{"lat": -73.992, "lng": -18.693},
-			{"lat": -73.748, "lng": -19.857},
-			{"lat": -73.096, "lng": -19.802}
+			
   ] 
 	},
 	{
 		"id":18,
-		"type":"Territorios",
+		"type":"",
 		"title":"Sandy's Bastards",
 		"notes":"",
 		"wiki_link":"https://foro.gta-now.org/index.php?/topic/125-sandys-bastards/",
@@ -334,10 +318,7 @@
 		"strokecolor":"7A0000",
 	  "fillcolor":"7A0000",
 		"latlngarray": [
-			{"lat": 43.312, "lng": 40.048},
-			{"lat": 42.158, "lng": 40.982},
-			{"lat": 43.032, "lng": 43.080},
-			{"lat": 44.193, "lng": 42.048}
+			
 	]
 	  },
 	  {
@@ -355,7 +336,7 @@
 	  },
 	  {
 		"id":20,
-		"type":"Territorios",
+		"type":"",
 		"title":"Devils Riders Motorcycle Club",
 		"notes":"",
 		"wiki_link":"https://foro.gta-now.org/index.php?/topic/339-devil-riders-mc/",
@@ -363,10 +344,7 @@
 		"strokecolor":"350A3B",
 		"fillcolor":"350A3B",
 		"latlngarray": [
-			{"lat": -60.056, "lng": -62.140},
-			{"lat": -60.767, "lng": -60.426},
-			{"lat": -59.930, "lng": -57.723},
-			{"lat": -58.759, "lng": -60.250}
+			
 	]
 	  },
 	{
@@ -385,4 +363,3 @@
   ]
 	}
   ]
-  
