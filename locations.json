@@ -221,7 +221,7 @@
 	},
 	{
 	  "id":13,
-	  "type":"Territorios",
+	  "type":"",
 	  "title":"Rollin 30s Blood Stone Piru",
 	  "notes":"",
 	  "wiki_link":"https://foro.gta-now.org/index.php?/topic/420-rollin-30s-blood-stone-piru/",
@@ -229,20 +229,12 @@
 	  "strokecolor":"E33838",
 	  "fillcolor":"E33838",
 	  "latlngarray":  [
-  {"lat": -72.341, "lng": -5.065},
-  {"lat": -71.663, "lng": -1.376},
-  {"lat": -71.711, "lng": -1.200},
-  {"lat": -71.691, "lng": 0.053},
-  {"lat": -72.174, "lng": -0.167},
-  {"lat": -72.415, "lng": -0.013},
-  {"lat": -72.698, "lng": -0.848},
-  {"lat": -72.964, "lng": -1.090},
-  {"lat": -73.169, "lng": -1.573}
+  
   ] 
 	},
 	{
 	  "id":14,
-	  "type":"Territorios",
+	  "type":"",
 	  "title":"806 B.J. Smith Park Brims",
 	  "notes":"",
 	  "wiki_link":"https://foro.gta-now.org/index.php?/topic/370-806-bj-smith-park-brims/",
@@ -250,13 +242,7 @@
 	  "strokecolor":"FF7777",
 	  "fillcolor":"FF7777",
 	  "latlngarray":  [
-		{"lat": -71.651, "lng": -20.977},
-		{"lat": -72.277, "lng": -18.406},
-		{"lat": -71.814, "lng": -17.198},
-		{"lat": -71.621, "lng": -17.484},
-		{"lat": -71.412, "lng": -17.638},
-		{"lat": -71.088, "lng": -17.616},
-		{"lat": -71.088, "lng": -17.945}
+		
   ] 
 	},
 	{
