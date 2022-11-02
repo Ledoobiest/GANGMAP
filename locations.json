@@ -68,19 +68,19 @@
 	{
 	  "id":4,
 	  "type":"Territorios",
-	  "title":"Kriminale Shqiptar",
+	  "title":"LS Black Mafia",
 	  "notes":"",
-	  "wiki_link":"https://foro.gta.world/index.php?/topic/736-banda-kriminale-shqiptar/",
+	  "wiki_link":"https://foro.gta.world/index.php?/topic/744-ls-black-mafia/",
 	  "order":0,
-	  "strokecolor":"840000",
-	  "fillcolor":"840000",
+	  "strokecolor":"27140B",
+	  "fillcolor":"27140B",
 	  "latlngarray": [
-		{"lat": -50.902, "lng": -26.210},
-		{"lat": -50.847, "lng": -21.772},
-		{"lat": -51.220, "lng": -21.706},
-		{"lat": -53.539, "lng": -22.651},
-		{"lat": -52.881, "lng": -26.166},
-		{"lat": -52.213, "lng": -26.101}
+		{"lat": -59.816, "lng": -64.860},
+			{"lat": -60.256, "lng": -65.474},
+			{"lat": -60.694, "lng": -65.321},
+			{"lat": -60.877, "lng": -65.046},
+			{"lat": -61.164, "lng": -64.431},
+			{"lat": -60.457, "lng": -63.299}
   ]
 	},
 	{
@@ -117,33 +117,36 @@
 	{
 	  "id":7,
 	  "type":"Territorios",
-	  "title":"Tokyo Plaza",
+	  "title":"Park Boyz",
 	  "notes":"",
-	  "wiki_link":"https://foro.gta.world/index.php?/topic/130-tokyo-plaza-%E6%9D%B1%E4%BA%AC%E3%83%97%E3%82%B6%E3%83%A9/",
+	  "wiki_link":"https://foro.gta.world/index.php?/topic/655-park-boyz/",
 	  "order":0,
-	  "strokecolor":"690FA4",
-	  "fillcolor":"690FA4",
+	  "strokecolor":"7575F0",
+	  "fillcolor":"7575F0",
 	  "latlngarray":  [
-  {"lat": -65.415, "lng": -39.444},
-  {"lat": -66.616, "lng": -39.444},
-  {"lat": -68.283, "lng": -37.098},
-  {"lat": -67.707, "lng": -34.505},
-  {"lat": -67.456, "lng": -34.010},
-  {"lat": -67.133, "lng": -33.747},
-  {"lat": -65.428, "lng": -33.681}
+		{"lat": -71.669, "lng": -22.512},
+		{"lat": -71.669, "lng": -21.930},
+		{"lat": -72.183, "lng": -20.084},
+		{"lat": -72.876, "lng": -22.029},
+		{"lat": -72.730, "lng": -23.105},
+		{"lat": -72.457, "lng": -22.743},
+		{"lat": -72.133, "lng": -22.468}
   ]
 	},
 	{
 	  "id":8,
-	  "type":"",
-	  "title":"Aparo Crime Family",
+	  "type":"Territorios",
+	  "title":"Park Boyz",
 	  "notes":"",
-	  "wiki_link":"https://foro.gta.world/index.php?/topic/62-aparo-crime-family/",
+	  "wiki_link":"https://foro.gta.world/index.php?/topic/655-park-boyz/",
 	  "order":0,
-	  "strokecolor":"67BE46",
-	  "fillcolor":"67BE46",
+	  "strokecolor":"7575F0",
+	  "fillcolor":"7575F0",
 	  "latlngarray":  [
-		
+		{"lat": -73.579, "lng": -19.341},
+			{"lat": -73.819, "lng": -18.297},
+			{"lat": -73.579, "lng": -17.451},
+			{"lat": -73.313, "lng": -18.605}
   ]
 	},
 	{
@@ -166,7 +169,7 @@
 	},
 	{
 	  "id":10,
-	  "type":"Territorios",
+	  "type":"",
 	  "title":"The Chosen Few Motorcycle Club",
 	  "notes":"",
 	  "wiki_link":"https://foro.gta.world/index.php?/topic/129-take-none-give-none-the-chosen-few-mc/",
@@ -221,33 +224,48 @@
 	},
 	{
 	  "id":13,
-	  "type":"",
-	  "title":"Rollin 30s Blood Stone Piru",
+	  "type":"Territorios",
+	  "title":"Decker Side 213 K-Town",
 	  "notes":"",
-	  "wiki_link":"https://foro.gta.world/index.php?/topic/420-rollin-30s-blood-stone-piru/",
+	  "wiki_link":"https://foro.gta.world/index.php?/topic/764-decker-side-213-k-town/",
 	  "order":0,
-	  "strokecolor":"E33838",
-	  "fillcolor":"E33838",
+	  "strokecolor":"C3C834",
+	  "fillcolor":"C3C834",
 	  "latlngarray":  [
-  
+		{"lat": -63.203, "lng": -40.023},
+		{"lat": -65.123, "lng": -40.034},
+		{"lat": -65.150, "lng": -41.638},
+		{"lat": -65.109, "lng": -42.462},
+		{"lat": -64.928, "lng": -43.692},
+		{"lat": -64.750, "lng": -43.396},
+		{"lat": -63.533, "lng": -43.275},
+		{"lat": -63.357, "lng": -42.484},
+		{"lat": -63.218, "lng": -41.319}
   ] 
 	},
 	{
 	  "id":14,
-	  "type":"",
-	  "title":"806 B.J. Smith Park Brims",
+	  "type":"Territorios",
+	  "title":"Decker Side 213 K-Town",
 	  "notes":"",
-	  "wiki_link":"https://foro.gta.world/index.php?/topic/370-806-bj-smith-park-brims/",
+	  "wiki_link":"https://foro.gta.world/index.php?/topic/764-decker-side-213-k-town/",
 	  "order":0,
-	  "strokecolor":"FF7777",
-	  "fillcolor":"FF7777",
+	  "strokecolor":"C3C834",
+	  "fillcolor":"C3C834",
 	  "latlngarray":  [
-		
+		{"lat": -65.427, "lng": -39.415},
+			{"lat": -66.610, "lng": -39.503},
+			{"lat": -67.243, "lng": -38.657},
+			{"lat": -66.961, "lng": -37.636},
+			{"lat": -66.801, "lng": -37.064},
+			{"lat": -66.736, "lng": -36.581},
+			{"lat": -66.619, "lng": -33.713},
+			{"lat": -65.436, "lng": -33.724}
   ] 
 	},
 	{
 	  "id":15,
-	  "type":"Territorios",
+	  "type":"",
 	  "title":"804 B.J. Smith Park Brims",
 	  "notes":"",
 	  "wiki_link":"https://foro.gta.world/index.php?/topic/316-804-bj-smith-park-brims",
@@ -267,7 +285,7 @@
 	},
 	{
 		"id":16,
-		"type":"Territorios",
+		"type":"",
 		"title":"Denver Line Bloods",
 		"notes":"",
 		"wiki_link":"https://foro.gta.world/index.php?/topic/412-pasadena-denver-lane-bloods",
@@ -349,3 +367,4 @@
   ]
 	}
   ]
+  
