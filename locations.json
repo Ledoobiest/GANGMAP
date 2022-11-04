@@ -85,15 +85,24 @@
 	},
 	{
 	  "id":5,
-	  "type":"",
-	  "title":"Vagos Motorcycle Club",
+	  "type":"Territorios",
+	  "title":"S/S Lil Watts 13",
 	  "notes":"",
-	  "wiki_link":"https://foro.gta.world/index.php?/topic/574-vagos-outlaw-motorcycle-gang/",
+	  "wiki_link":"https://foro.gta.world/index.php?/topic/703-ss-lil-watts-13/",
 	  "order":0,
-	  "strokecolor":"0F9019",
-	  "fillcolor":"0F9019",
+	  "strokecolor":"0B83A9",
+	  "fillcolor":"0B83A9",
 	  "latlngarray": [
-		
+		{"lat": -76.630, "lng": -7.685},
+			{"lat": -76.194, "lng": -6.136},
+			{"lat": -76.110, "lng": -5.873},
+			{"lat": -75.758, "lng": -4.598},
+			{"lat": -76.202, "lng": -2.785},
+			{"lat": -76.283, "lng": -3.203},
+			{"lat": -76.444, "lng": -3.532},
+			{"lat": -76.515, "lng": -3.719},
+			{"lat": -76.932, "lng": -5.455},
+			{"lat": -77.004, "lng": -5.884}
   ]
 	},
 	{
@@ -168,20 +177,30 @@
 	},
 	{
 	  "id":10,
-	  "type":"",
-	  "title":"The Chosen Few Motorcycle Club",
+	  "type":"Territorios",
+	  "title":"Fleezy Gang XO",
 	  "notes":"",
-	  "wiki_link":"https://foro.gta.world/index.php?/topic/129-take-none-give-none-the-chosen-few-mc/",
+	  "wiki_link":"https://foro.gta.world/index.php?/topic/858-fleezy-gang-xo/",
 	  "order":0,
-	  "strokecolor":"4F1D12",
-	  "fillcolor":"4F1D12",
+	  "strokecolor":"0D44FF",
+	  "fillcolor":"0D44FF",
 	  "latlngarray": [
-  {"lat": -73.675, "lng": -12.752},
-  {"lat": -73.110, "lng": -9.544},
-  {"lat": -73.632, "lng": -7.347},
-  {"lat": -74.096, "lng": -8.797},
-  {"lat": -74.138, "lng": -9.325},
-  {"lat": -74.282, "lng": -10.028}
+		{"lat": -70.115, "lng": -12.590},
+		{"lat": -70.892, "lng": -11.646},
+		{"lat": -71.057, "lng": -10.613},
+		{"lat": -70.463, "lng": -9.163},
+		{"lat": -70.278, "lng": -8.130},
+		{"lat": -70.264, "lng": -6.372},
+		{"lat": -70.293, "lng": -5.537},
+		{"lat": -70.558, "lng": -4.504},
+		{"lat": -70.863, "lng": -3.538},
+		{"lat": -70.411, "lng": -2.351},
+		{"lat": -70.025, "lng": -2.087},
+		{"lat": -69.889, "lng": -3.735},
+		{"lat": -69.745, "lng": -4.417},
+		{"lat": -69.738, "lng": -8.064},
+		{"lat": -69.730, "lng": -8.855},
+		{"lat": -69.965, "lng": -10.833}
   ]
 	},
 	{
