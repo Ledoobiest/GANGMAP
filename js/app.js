@@ -488,7 +488,7 @@ $(function() {
 function printArray() {
 	var msg = 'Recordatorio de como añadir un nuevo territorio:\n'
 	+ 'Haz click derecho para indicar los diferentes puntos que van a conformar el area del territorio de tu proyecto. Una vez esten todos colocados, pulsa el botón de "Añadir nuevo territorio" y después pulsa F12 para entrar en la consola de la pagina y ver las coordenadas del area deseada.\n\n'
-	+ 'Recuerda que si quieres ver el territorio de tu proyecto en el mapa, ponte en contacto con el IFM de GTA Now.\n\n';
+	+ 'Recuerda que si quieres ver el territorio de tu proyecto en el mapa, ponte en contacto con el IFM de GTAW.es\n\n';
 	var i;
 	for (i = 0; i < window.locs.length; i++) {
 		msg += '\t\t\t{"lat": ' + window.locs[i].position.lat().toFixed(3) + ', "lng": ' + window.locs[i].position.lng().toFixed(3) + '}' + (window.locs.length - 1 == i ? '' : ',') + '\n';
